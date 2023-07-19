@@ -219,25 +219,25 @@ nav {
 }
 
 .img1 {
-    background-image: url(images/Rectangle\ 4.png);
+    background-image: url("images/Rectangle 4.png");
     width: 342px;
     height: 400px;
     text-align: center;
 }
 .img2 {
-    background-image: url(images/Rectangle\ 5.png);
+    background-image: url("images/Rectangle 5.png");
     width: 342px;
     height: 400px;
     text-align: center;
 }
 .img3 {
-    background-image: url(images/Rectangle\ 7.png);
+    background-image: url("images/Rectangle 7.png");
     width: 342px;
     height: 400px;
     text-align: center;
 }
 .img4 {
-    background-image: url(images/Rectangle\ 6.png);
+    background-image: url("images/Rectangle 6.png");
     width: 342px;
     height: 400px;
     text-align: center;
@@ -264,22 +264,22 @@ nav {
 
 .img1:hover {
     border-radius: 16px;
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.60) 0%, rgba(0, 0, 0, 0.60) 100%), url(images/Rectangle\ 4.png), lightgray 50% / cover no-repeat;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.60) 0%, rgba(0, 0, 0, 0.60) 100%), url("images/Rectangle 4.png"), lightgray 50% / cover no-repeat;
 }
 
 .img2:hover {
     border-radius: 16px;
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.60) 0%, rgba(0, 0, 0, 0.60) 100%), url(images/Rectangle\ 5.png), lightgray 50% / cover no-repeat;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.60) 0%, rgba(0, 0, 0, 0.60) 100%), url("images/Rectangle 5.png"), lightgray 50% / cover no-repeat;
 }
 
 .img3:hover {
     border-radius: 16px;
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.60) 0%, rgba(0, 0, 0, 0.60) 100%), url(images/Rectangle\ 7.png), lightgray 50% / cover no-repeat;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.60) 0%, rgba(0, 0, 0, 0.60) 100%), url("images/Rectangle 7.png"), lightgray 50% / cover no-repeat;
 }
 
 .img4:hover {
     border-radius: 16px;
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.60) 0%, rgba(0, 0, 0, 0.60) 100%), url(images/Rectangle\ 6.png), lightgray 50% / cover no-repeat;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.60) 0%, rgba(0, 0, 0, 0.60) 100%), url("images/Rectangle 6.png"), lightgray 50% / cover no-repeat;
 }
 
 .img-description {
